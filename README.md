@@ -7,13 +7,13 @@ A typo maker!
 ### Run on Linux (and hopefully with the same file and method, on MacOS)
 
 ```./truthimiser_linux.out```          
-Or build your own with `gcc` from source.
+Or build your own from source.
 
 ### Run on Windows
 Start it from from the icon.    
 Alternatively, start it via cmd/powershell by     
 ```.\truthimiser_win.exe```     
-Or build your own with `gcc` and `mingw` from source.
+Or build your own from source.
 
 ## • How to use
 
